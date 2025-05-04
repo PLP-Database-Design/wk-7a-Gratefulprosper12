@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 -- QUESTION 1 ANSWER
 -- achieving 1NF--
@@ -54,6 +53,3 @@ VALUES(101, 'Laptop', 2),
 
 SELECT * FROM OrderedProducts;
 SELECT* FROM CustomerOrders
-=======
-"" 
->>>>>>> origin/main
